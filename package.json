@@ -1,6 +1,9 @@
 {
   "name": "playDotJsTypeScriptTest",
   "version": "0.0.1",
+  "scripts": {
+    "init": "tsc --init"
+  },
   "dependencies": {
     "typescript": "4.3.2"
   }
